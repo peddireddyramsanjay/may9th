@@ -1,0 +1,3 @@
+d={1:['sanjay', 'mpair', '27']2:['mani', 'mpair', '56']3:['nani', 'mpair', '45']}
+d.pop(2):
+print(d)
